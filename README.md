@@ -1,6 +1,8 @@
 <!-- Banner Image -->
+<h1 align="center">🚘 Vehicle Diagnostic Assistant Bot</h1>
 <p align="center">
   <img src="images\Screenshot (39).png" alt="Vehicle Diagnostic Bot UI" width="800"/>
+  <img src="images\Screenshot (40).png" alt="Vehicle Diagnostic Bot UI" width="800"/>
 </p>
 
 <h1 align="center">🚘 Vehicle Diagnostic Assistant Bot</h1>
