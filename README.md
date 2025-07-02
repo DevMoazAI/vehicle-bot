@@ -33,7 +33,6 @@
 
 <p align="center">
   <img src="images\Screenshot (41).png" alt="Quesion View" width="800"/>
-  <img src="images\Screenshot (42).png" alt="Answer View1" width="800"/>
   <img src="images\Screenshot (43).png" alt="Answer View2" width="800"/>
 </p>
 
