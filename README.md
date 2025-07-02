@@ -40,7 +40,7 @@
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/your-username/vehicle-diagnostic-bot.git
+git clone https://github.com/DevMoazAI/vehicle-bot
 cd vehicle-diagnostic-bot
 
 # 2. Create and activate virtual environment
