@@ -1,0 +1,87 @@
+@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css');
+
+body {
+    background: #f0f4f8;
+    font-family: 'Segoe UI', sans-serif;
+}
+
+.card {
+    background-color: #ffffff;
+    max-width: 800px;
+    margin: 40px auto;
+    padding: 30px;
+    border-radius: 16px;
+    box-shadow: 0 6px 20px rgba(0, 0, 0, 0.1);
+}
+
+/* Title Heading */
+h1 {
+    font-size: 28px;
+    color: #ffffff;
+    background: #007bff;
+    padding: 16px 24px;
+    border-radius: 12px;
+    margin-bottom: 12px;
+    text-align: center;
+}
+
+/* Subheading */
+.subhead {
+    color: #333333;
+    font-size: 16px;
+    text-align: center;
+    margin-bottom: 24px;
+}
+
+/* Icon in Heading */
+.icon {
+    margin-right: 10px;
+    color: #ffffff;
+}
+
+/* Label Headings */
+label {
+    font-weight: bold;
+    font-size: 15px;
+    color: #ffffff;
+    background: #007bff;
+    padding: 8px 12px;
+    border-radius: 8px;
+    display: inline-block;
+    margin-bottom: 8px;
+}
+
+/* Input box */
+.gr-textbox textarea {
+    font-size: 16px !important;
+    border-radius: 10px !important;
+    padding: 12px;
+    border: 1px solid #ccc !important;
+    background-color: #fdfdfd !important;
+}
+
+/* Output box */
+.output-area textarea {
+    background: #f5faff !important;
+    border-radius: 10px !important;
+    font-family: 'Courier New', monospace;
+    font-size: 15px;
+    color: #333;
+    padding: 12px;
+    border: 1px solid #ccc !important;
+}
+
+/* Button */
+.gr-button {
+    background: #28a745 !important;
+    color: white !important;
+    border-radius: 10px !important;
+    font-size: 16px !important;
+    padding: 10px 24px !important;
+    margin-top: 16px;
+    transition: all 0.3s ease;
+}
+
+.gr-button:hover {
+    background: #218838 !important;
+}

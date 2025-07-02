@@ -1,0 +1,14 @@
+#  Do not track virtual environment
+venv/
+
+#  Do not track API keys or environment configs
+.env
+
+#  Python cache and logs
+__pycache__/
+*.pyc
+*.log
+
+#  OS-specific files
+.DS_Store
+Thumbs.db
